@@ -1,1 +1,0 @@
-# EX.6-Record-EDGE-DETECTION
